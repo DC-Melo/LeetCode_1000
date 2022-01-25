@@ -1,5 +1,6 @@
 #include <iostream>
 #include "solution.h"
+
 int main(int argc, const char * argv[]) {
     Solution s;
     vector<int> numbers={2, 7, 11, 15};
