@@ -1,0 +1,38 @@
+break solution.cpp:15
+  commands
+    printf "=======================\n"
+    printf "--------A--------------\n"
+    p *A@n
+    printf "--------left--------------\n"
+    p *left@n
+  end
+break solution.cpp:24
+  commands
+    printf "=======================\n"
+    printf "--------A--------------\n"
+    p *A@n
+    printf "--------right--------------\n"
+    p *right@n
+  end
+break solution.cpp:33
+  commands
+    printf "=======================\n"
+    printf "--------temp=%d--------------\n",temp
+    printf "--------result=%d--------------\n",result
+  end
+break solution.cpp:64
+  commands
+    printf "=======================\n"
+    printf "--------l=%d,r=%d,height[l]=%d,height[r]=%d,res=%d--------------\n",l,r,height[l],height[r],res
+  end
+break solution.cpp:84
+  commands
+    printf "=======================\n"
+    printf "--------l=%d,r=%d,height[l]=%d,height[r]=%d,res=%d--------------\n",l,r,height[l],height[r],res
+  end
+break solution.cpp:97
+  commands
+    printf "=======================\n"
+    printf "--------i=%d,height[i]=%d--------------\n",i,height[i]
+    pstack st
+  end

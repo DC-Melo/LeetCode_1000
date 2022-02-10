@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.2)
-project(Two-Sum)
+# project(Two-Sum)
 
 SET(CMAKE_BUILD_TYPE Debug)
 

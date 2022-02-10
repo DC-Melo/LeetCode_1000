@@ -1,0 +1,4 @@
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.

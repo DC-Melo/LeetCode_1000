@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dc/5W/LeetCode_1000/leetcode_cpp/002.Add-Two-Numbers/main.cpp
+iostream
+-
+solution.h
+/home/dc/5W/LeetCode_1000/leetcode_cpp/002.Add-Two-Numbers/solution.h
+
+/home/dc/5W/LeetCode_1000/leetcode_cpp/002.Add-Two-Numbers/solution.h
+iostream
+-
+

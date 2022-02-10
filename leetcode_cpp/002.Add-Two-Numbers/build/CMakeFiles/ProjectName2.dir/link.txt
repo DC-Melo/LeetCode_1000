@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/ProjectName2.dir/main.cpp.o  -o ProjectName2 libsln2.a 

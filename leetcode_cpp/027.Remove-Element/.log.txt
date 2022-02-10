@@ -1,0 +1,198 @@
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+Reading symbols from a.out...done.
+Breakpoint 1 at 0xe4e: file solution.cpp, line 47.
+Starting program: /home/dc/5W/algorithm/LeetCode-NOTES/Algorithms/027.Remove-Element/a.out 
+Error while running hook_stop:
+Undefined command: "draw-separator".  Try "help".
+
+Breakpoint 1, main () at solution.cpp:47
+Error while running hook_stop:
+Undefined command: "draw-separator".  Try "help".
+Solution::removeElement (this=0x7fffffffdae3, nums=std::vector of length 4, capacity 4 = {...}, val=2) at solution.cpp:22
+Error while running hook_stop:
+Undefined command: "draw-separator".  Try "help".
+Hardware watchpoint 2: i
+Continuing.
+Error while running hook_stop:
+Undefined command: "draw-separator".  Try "help".
+
+Hardware watchpoint 2: i
+
+Old value = <unreadable>
+New value = 0
+0x0000555555554f7a in Solution::removeElement (this=0x7fffffffdae3, nums=std::vector of length 4, capacity 4 = {...}, val=2)
+    at solution.cpp:23
+Error while running hook_stop:
+Undefined command: "draw-separator".  Try "help".
+Continuing.
+Error while running hook_stop:
+Undefined command: "draw-separator".  Try "help".
+
+Hardware watchpoint 2: i
+
+Old value = <unreadable>
+New value = 1
+Solution::removeElement (this=0x7fffffffdae3, nums=std::vector of length 4, capacity 4 = {...}, val=2) at solution.cpp:29
+Continuing.
+Error while running hook_stop:
+Undefined command: "draw-separator".  Try "help".
+
+Hardware watchpoint 2: i
+
+Old value = <unreadable>
+New value = 2
+Solution::removeElement (this=0x7fffffffdae3, nums=std::vector of length 4, capacity 4 = {...}, val=2) at solution.cpp:29
+Undefined command: "ll".  Try "help".
+Continuing.
+
+Watchpoint 2 deleted because the program has left the block in
+which its expression is valid.
+Error while running hook_stop:
+Undefined command: "draw-separator".  Try "help".
+0x0000555555554e64 in main () at solution.cpp:47
+Starting program: /home/dc/5W/algorithm/LeetCode-NOTES/Algorithms/027.Remove-Element/a.out 
+Error while running hook_stop:
+Undefined command: "draw-separator".  Try "help".
+
+Breakpoint 1, main () at solution.cpp:47
+Error while running hook_stop:
+Undefined command: "draw-separator".  Try "help".
+Solution::removeElement (this=0x7fffffffdae3, nums=std::vector of length 4, capacity 4 = {...}, val=2) at solution.cpp:22
+Continuing.
+[Inferior 1 (process 4286) exited normally]
+Error while running hook_stop:
+Undefined command: "draw-separator".  Try "help".
+The program is not being run.
+Focus set to cmd window.
+Focus set to src window.
+Focus set to cmd window.
+Focus set to src window.
+No symbol "i" in current context.
+Breakpoint 3 at 0x555555554f9d: file solution.cpp, line 24.
+The program is not being run.
+Starting program: /home/dc/5W/algorithm/LeetCode-NOTES/Algorithms/027.Remove-Element/a.out 
+Error while running hook_stop:
+Undefined command: "draw-separator".  Try "help".
+
+Breakpoint 1, main () at solution.cpp:47
+Continuing.
+Error while running hook_stop:
+Undefined command: "draw-separator".  Try "help".
+
+Breakpoint 3, Solution::removeElement (this=0x7fffffffdae3, nums=std::vector of length 4, capacity 4 = {...}, val=2)
+    at solution.cpp:25
+Hardware watchpoint 4: i
+Continuing.
+Error while running hook_stop:
+Undefined command: "draw-separator".  Try "help".
+
+Hardware watchpoint 4: i
+
+Old value = <unreadable>
+New value = 1
+Solution::removeElement (this=0x7fffffffdae3, nums=std::vector of length 4, capacity 4 = {...}, val=2) at solution.cpp:29
+Continuing.
+Error while running hook_stop:
+Undefined command: "draw-separator".  Try "help".
+
+Breakpoint 3, Solution::removeElement (this=0x7fffffffdae3, nums=std::vector of length 4, capacity 4 = {...}, val=2)
+    at solution.cpp:25
+$1 = 1
+Continuing.
+Error while running hook_stop:
+Undefined command: "draw-separator".  Try "help".
+
+Breakpoint 3, Solution::removeElement (this=0x7fffffffdae3, nums=std::vector of length 4, capacity 4 = {...}, val=2)
+    at solution.cpp:25
+$2 = 1
+Continuing.
+Error while running hook_stop:
+Undefined command: "draw-separator".  Try "help".
+
+Breakpoint 3, Solution::removeElement (this=0x7fffffffdae3, nums=std::vector of length 4, capacity 4 = {...}, val=2)
+    at solution.cpp:25
+Error while running hook_stop:
+Undefined command: "draw-separator".  Try "help".
+Continuing.
+Error while running hook_stop:
+Undefined command: "draw-separator".  Try "help".
+
+Hardware watchpoint 4: i
+
+Old value = <unreadable>
+New value = 2
+Solution::removeElement (this=0x7fffffffdae3, nums=std::vector of length 4, capacity 4 = {...}, val=2) at solution.cpp:29
+Continuing.
+
+Watchpoint 4 deleted because the program has left the block in
+which its expression is valid.
+Error while running hook_stop:
+Undefined command: "draw-separator".  Try "help".
+0x0000555555554e64 in main () at solution.cpp:47
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+Reading symbols from a.out...done.
+34	in /home/dc/5W/algorithm/LeetCode-NOTES/Algorithms/027.Remove-Element/solution.cpp
+Breakpoint 1 at 0xf73: file solution.cpp, line 23.
+Starting program: /home/dc/5W/algorithm/LeetCode-NOTES/Algorithms/027.Remove-Element/a.out 
+Error while running hook_stop:
+Undefined command: "draw-separator".  Try "help".
+
+Breakpoint 1, Solution::removeElement (this=0x7fffffffdae3, nums=std::vector of length 4, capacity 4 = {...}, val=2)
+    at solution.cpp:23
+elem[0]: $1 = 1
+elem[1]: $2 = 2
+elem[2]: $3 = 2
+elem[3]: $4 = 1
+Vector size = 4
+Vector capacity = 4
+Element type = std::_Vector_base<int, std::allocator<int> >::pointer
+Error while running hook_stop:
+Undefined command: "draw-separator".  Try "help".
+Error while running hook_stop:
+Undefined command: "draw-separator".  Try "help".
+$5 = 0
+$6 = 0
+Error while running hook_stop:
+Undefined command: "draw-separator".  Try "help".
+Error while running hook_stop:
+Undefined command: "draw-separator".  Try "help".
+Error while running hook_stop:
+Undefined command: "draw-separator".  Try "help".
+Error while running hook_stop:
+Undefined command: "draw-separator".  Try "help".
+Error while running hook_stop:
+Undefined command: "draw-separator".  Try "help".
+$7 = 1
+$8 = 1
+Error while running hook_stop:
+Undefined command: "draw-separator".  Try "help".
+$9 = 2
+Error while running hook_stop:
+Undefined command: "draw-separator".  Try "help".
+$10 = 1
+$11 = 2
+Error while running hook_stop:
+Undefined command: "draw-separator".  Try "help".
+Error while running hook_stop:
+Undefined command: "draw-separator".  Try "help".
+Error while running hook_stop:
+Undefined command: "draw-separator".  Try "help".
+Error while running hook_stop:
+Undefined command: "draw-separator".  Try "help".
+Error while running hook_stop:
+Undefined command: "draw-separator".  Try "help".
+Error while running hook_stop:
+Undefined command: "draw-separator".  Try "help".
+elem[0]: $12 = 1
+elem[1]: $13 = 1
+elem[2]: $14 = 2
+elem[3]: $15 = 1
+Vector size = 4
+Vector capacity = 4
+Element type = std::_Vector_base<int, std::allocator<int> >::pointer

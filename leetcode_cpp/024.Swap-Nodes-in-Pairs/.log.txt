@@ -1,0 +1,495 @@
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+Reading symbols from a.out...done.
+Breakpoint 1 at 0xc32: file solution.cpp, line 24.
+Starting program: /home/dc/5W/algorithm/LeetCode-NOTES/Algorithms/024.Swap-Nodes-in-Pairs/a.out 
+
+Breakpoint 1, Solution::swapPairs (this=0x7fffffffdafb, head=0x5555557696b0) at solution.cpp:24
+$1 = (ListNode *) 0x5555557696b0
+evaluation of this expression requires the program to have a function "_NSPrintForDebugger".
+type = struct ListNode {
+    int val;
+    ListNode *next;
+  public:
+    ListNode(int);
+} *
+There is no member or method named _M_impl.
+	Prints std::list<T> information.
+	Syntax: plist <list> <T> <idx>: Prints list size, if T defined all elements or just element at idx
+	Examples:
+	plist_member l int member - prints all elements and list size
+	plist_member l int member 2 - prints the third element in the list (if exists) and list size
+$2 = (ListNode *) 0x5555557696b0
+0x5555557696b0:	0x01	0x00	0x00	0x00	0x00	0x00	0x00	0x00
+0x555555769730:	0x05	0x00	0x00	0x00	0x00	0x00	0x00	0x00
+0x555555769738:	0x00
+0x5555557696b0:	0x01	0x00	0x00	0x00	0x00	0x00	0x00	0x00
+0x5555557696b0:	0x01	0x00	0x00	0x00	0x00	0x00	0x00	0x00
+0x5555557696b8:	0xd0	0x96	0x76	0x55	0x55	0x55	0x00	0x00
+0x5555557696d0:	0x02	0x00	0x00	0x00	0x00	0x00	0x00	0x00
+0x5555557696d8:	0xf0	0x96	0x76	0x55	0x55	0x55	0x00	0x00
+There is no member or method named _M_impl.
+$3 = 12
+$4 = 11
+$5 = 10
+$6 = 9
+$7 = 8
+$8 = 7
+$9 = 6
+$10 = 5
+$11 = 4
+$12 = 3
+$13 = 2
+$14 = 1
+$15 = 0
+There is no member or method named _M_impl.
+There is no member or method named _M_impl.
+Please answer y or n.
+Please answer y or n.
+Please answer y or n.
+Please answer y or n.
+Please answer y or n.
+Please answer y or n.
+Please answer y or n.
+Please answer y or n.
+Please answer y or n.
+Please answer y or n.
+Command "plist" not redefined.
+Not confirmed.
+$16 = (ListNode *) 0x5555557696b0
+Type commands for definition of "plinknode".
+End with a line saying just "end".
+$17 = (ListNode *) 0x5555557696b0
+Not confirmed.
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+Reading symbols from a.out...done.
+No symbol "PCur" in current context.
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+Reading symbols from a.out...done.
+15	in /home/dc/5W/algorithm/LeetCode-NOTES/Algorithms/024.Swap-Nodes-in-Pairs/solution.cpp
+Breakpoint 1 at 0xc32: file solution.cpp, line 24.
+Starting program: /home/dc/5W/algorithm/LeetCode-NOTES/Algorithms/024.Swap-Nodes-in-Pairs/a.out 
+
+Breakpoint 1, Solution::swapPairs (this=0x7fffffffdafb, head=0x5555557696b0) at solution.cpp:24
+There is no member or method named mData.
+Redefine command "pLinkNode"? (y or n) [answered Y; input not from terminal]
+Redefine command "pLinkNode"? (y or n) [answered Y; input not from terminal]
+$1 = 1
+$2 = 2
+$3 = 3
+$4 = 4
+$5 = 5
+Cannot access memory at address 0x0
+Really redefine built-in command "find"? (y or n) [answered Y; input not from terminal]
+Redefine command "pLinkNode"? (y or n) [answered Y; input not from terminal]
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+Reading symbols from a.out...done.
+Really redefine built-in command "find"? (y or n) [answered Y; input not from terminal]
+Breakpoint 1 at 0xc32: file solution.cpp, line 24.
+Starting program: /home/dc/5W/algorithm/LeetCode-NOTES/Algorithms/024.Swap-Nodes-in-Pairs/a.out 
+
+Breakpoint 1, Solution::swapPairs (this=0x7fffffffdafb, head=0x5555557696b0) at solution.cpp:24
+No symbol "pcurrent" in current context.
+Redefine command "pLinkNode"? (y or n) [answered Y; input not from terminal]
+No symbol "pcurrent" in current context.
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+Reading symbols from a.out...done.
+Breakpoint 1 at 0xc32: file solution.cpp, line 24.
+Starting program: /home/dc/5W/algorithm/LeetCode-NOTES/Algorithms/024.Swap-Nodes-in-Pairs/a.out 
+
+Breakpoint 1, Solution::swapPairs (this=0x7fffffffdafb, head=0x5555557696b0) at solution.cpp:25
+	to list the list by travel
+No symbol "NULL" in current context.
+Redefine command "pLinkNode"? (y or n) [answered Y; input not from terminal]
+value has been optimized out
+$1 = (ListNode *) 0x5555557696d0
+value has been optimized out
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+Reading symbols from a.out...done.
+15	in /home/dc/5W/algorithm/LeetCode-NOTES/Algorithms/024.Swap-Nodes-in-Pairs/solution.cpp
+Breakpoint 1 at 0xc32: file solution.cpp, line 25.
+Starting program: /home/dc/5W/algorithm/LeetCode-NOTES/Algorithms/024.Swap-Nodes-in-Pairs/a.out 
+
+Breakpoint 1, Solution::swapPairs (this=0x7fffffffdaeb, head=0x5555557696b0) at solution.cpp:25
+No symbol "pLinkNode" in current context.
+A syntax error in expression, near `$pcurrent = head'.
+$1 = (ListNode *) 0x5555557696b0
+There is no member or method named _M_impl.
+value is 1/nvalue is 2/nvalue is 3/nvalue is 4/nRedefine command "dump_list"? (y or n) [answered Y; input not from terminal]
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+Reading symbols from a.out...done.
+19	in /home/dc/5W/algorithm/LeetCode-NOTES/Algorithms/024.Swap-Nodes-in-Pairs/solution.cpp
+Breakpoint 1 at 0xc32: file solution.cpp, line 25.
+Starting program: /home/dc/5W/algorithm/LeetCode-NOTES/Algorithms/024.Swap-Nodes-in-Pairs/a.out 
+
+Breakpoint 1, Solution::swapPairs (this=0x7fffffffdaeb, head=0x5555557696b0) at solution.cpp:25
+$1 = (ListNode *) 0x5555557696b0
+Missing argument 0 in user function.
+value is 1/nvalue is 2/nvalue is 3/nvalue is 4/nvalue is 5/nRedefine command "dump_list"? (y or n) [answered Y; input not from terminal]
+Undefined command: "y".  Try "help".
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+Reading symbols from a.out...done.
+Breakpoint 1 at 0xc32: file solution.cpp, line 25.
+Quit
+No symbol "head" in current context.
+No symbol "head" in current context.
+Starting program: /home/dc/5W/algorithm/LeetCode-NOTES/Algorithms/024.Swap-Nodes-in-Pairs/a.out 
+
+Breakpoint 1, Solution::swapPairs (this=0x7fffffffdaeb, head=0x5555557696b0) at solution.cpp:25
+$1 = (ListNode *) 0x5555557696b0
+value is 1
+value is 2
+value is 3
+value is 4
+value is 5
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+/home/dc/.gdbinit:58: Error in sourced command file:
+Undefined command: "dump_list".  Try "help".
+Reading symbols from a.out...done.
+value is 1
+value is 2
+value is 3
+value is 4
+value is 5
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+Reading symbols from a.out...done.
+Breakpoint 1 at 0xc32: file solution.cpp, line 25.
+Starting program: /home/dc/5W/algorithm/LeetCode-NOTES/Algorithms/024.Swap-Nodes-in-Pairs/a.out 
+
+Breakpoint 1, Solution::swapPairs (this=0x7fffffffdaeb, head=0x5555557696b0) at solution.cpp:25
+value is 1
+value is 2
+value is 3
+value is 4
+value is 5
+#1  0x0000555555554b10 in main () at solution.cpp:49
+Program not restarted.
+Quit
+Quit
+Quit
+Redefine command "plistnode"? (y or n) [answered Y; input not from terminal]
+.gdb_commands.sh:9: Error in sourced command file:
+Undefined command: "dump_list".  Try "help".
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+Reading symbols from a.out...done.
+Breakpoint 1 at 0xc32: file solution.cpp, line 25.
+Starting program: /home/dc/5W/algorithm/LeetCode-NOTES/Algorithms/024.Swap-Nodes-in-Pairs/a.out 
+
+Breakpoint 1, Solution::swapPairs (this=0x7fffffffdaeb, head=0x5555557696b0) at solution.cpp:25
+Attempt to take address of value not located in memory.
+#1  0x0000555555554b10 in main () at solution.cpp:49
+Starting program: /home/dc/5W/algorithm/LeetCode-NOTES/Algorithms/024.Swap-Nodes-in-Pairs/a.out 
+
+Breakpoint 1, Solution::swapPairs (this=0x7fffffffdaeb, head=0x5555557696b0) at solution.cpp:25
+Redefine command "pvector"? (y or n) [answered Y; input not from terminal]
+Redefine command "plist"? (y or n) [answered Y; input not from terminal]
+Redefine command "plist_member"? (y or n) [answered Y; input not from terminal]
+Redefine command "pmap"? (y or n) [answered Y; input not from terminal]
+Redefine command "pmap_member"? (y or n) [answered Y; input not from terminal]
+Redefine command "pset"? (y or n) [answered Y; input not from terminal]
+Redefine command "pdequeue"? (y or n) [answered Y; input not from terminal]
+Redefine command "pstack"? (y or n) [answered Y; input not from terminal]
+Redefine command "pqueue"? (y or n) [answered Y; input not from terminal]
+Redefine command "ppqueue"? (y or n) [answered Y; input not from terminal]
+Redefine command "pbitset"? (y or n) [answered Y; input not from terminal]
+Redefine command "pstring"? (y or n) [answered Y; input not from terminal]
+Redefine command "pwstring"? (y or n) [answered Y; input not from terminal]
+Already logging to ./.log.txt.
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+Redefine command "qbp"? (y or n) [answered Y; input not from terminal]
+Redefine command "downbp"? (y or n) [answered Y; input not from terminal]
+Redefine command "loadbp"? (y or n) [answered Y; input not from terminal]
+Redefine command "myloop_print"? (y or n) [answered Y; input not from terminal]
+Redefine command "plistnode"? (y or n) [answered Y; input not from terminal]
+address:5555557696b0 val:1 next:5555557696d0 
+address:5555557696d0 val:2 next:5555557696f0 
+address:5555557696f0 val:3 next:555555769710 
+address:555555769710 val:4 next:555555769730 
+address:555555769730 val:5 next:0 
+$1 = (ListNode **) 0x7fffffffdaa0
+$2 = (ListNode *) 0x5555557696b0
+Not confirmed.
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+Reading symbols from a.out...done.
+Starting program: /home/dc/5W/algorithm/LeetCode-NOTES/Algorithms/024.Swap-Nodes-in-Pairs/a.out 
+[Inferior 1 (process 16877) exited normally]
+Breakpoint 1 at 0x555555554c32: file solution.cpp, line 25.
+Starting program: /home/dc/5W/algorithm/LeetCode-NOTES/Algorithms/024.Swap-Nodes-in-Pairs/a.out 
+
+Breakpoint 1, Solution::swapPairs (this=0x7fffffffdaeb, head=0x5555557696b0) at solution.cpp:25
+node 1 address:0x5555557696b0 val:1 next:0x5555557696d0 
+node 2 address:0x5555557696d0 val:2 next:0x5555557696f0 
+node 3 address:0x5555557696f0 val:3 next:0x555555769710 
+node 4 address:0x555555769710 val:4 next:0x555555769730 
+node 5 address:0x555555769730 val:5 next:0x0 
+$1 = (ListNode **) 0x7fffffffdaa0
+$2 = (ListNode *) 0x5555557696b0
+node 1 address:0x1 val:Cannot access memory at address 0x1
+node 1 address:0x5555557696b0 val:1 next:0x5555557696d0 
+node 2 address:0x5555557696d0 val:2 next:0x5555557696f0 
+node 3 address:0x5555557696f0 val:3 next:0x555555769710 
+node 4 address:0x555555769710 val:4 next:0x555555769730 
+node 5 address:0x555555769730 val:5 next:0x0 
+$3 = (ListNode *) 0x555555769730
+$4 = (ListNode *) 0x5ffffdb20
+$5 = (ListNode *) 0x5555557696b0
+$6 = (ListNode *) 0x5555557696b0
+$7 = (ListNode *) 0x5555557696b0
+$8 = (ListNode *) 0x5555557696b0
+$9 = (ListNode *) 0x5555557696d0
+$10 = (ListNode **) 0x7fffffffdaa0
+Breakpoint 2 at 0x555555554c2a: file solution.cpp, line 23.
+Starting program: /home/dc/5W/algorithm/LeetCode-NOTES/Algorithms/024.Swap-Nodes-in-Pairs/a.out 
+
+Breakpoint 2, Solution::swapPairs (this=0x7fffffffdaeb, head=0x5555557696b0) at solution.cpp:23
+$11 = (ListNode **) 0x10
+$12 = (ListNode *) 0x555555769730
+$13 = (ListNode *) 0x5ffffdb20
+$14 = (ListNode *) 0x555555769730
+Cannot access memory at address 0x10
+Reading symbols from a.out...done.
+Note: breakpoint 1 also set at pc 0xc32.
+Breakpoint 3 at 0xc32: file solution.cpp, line 25.
+Starting program: /home/dc/5W/algorithm/LeetCode-NOTES/Algorithms/024.Swap-Nodes-in-Pairs/a.out 
+
+Breakpoint 2, Solution::swapPairs (this=0x7fffffffdaeb, head=0x5555557696b0) at solution.cpp:24
+$15 = (ListNode **) 0x10
+$16 = (ListNode *) 0x555555769730
+$17 = (ListNode *) 0x5ffffdb20
+
+Breakpoint 1, Solution::swapPairs (this=0x7fffffffdaeb, head=0x5555557696b0) at solution.cpp:27
+$18 = (ListNode **) 0x7fffffffdaa0
+$19 = (ListNode *) 0x555555769730
+$20 = (ListNode *) 0x5ffffdb20
+$21 = (ListNode *) 0x5555557696b0
+$22 = (ListNode *) 0x555555769730
+$23 = (ListNode *) 0x5555557696b0
+$24 = (ListNode *) 0x5555557696b0
+Starting program: /home/dc/5W/algorithm/LeetCode-NOTES/Algorithms/024.Swap-Nodes-in-Pairs/a.out 
+
+Breakpoint 2, Solution::swapPairs (this=0x7fffffffdaeb, head=0x5555557696b0) at solution.cpp:24
+A syntax error in expression, near `b'.
+Cannot access memory at address 0x10
+$25 = (ListNode *) 0x555555769730
+Cannot access memory at address 0x10
+$26 = (ListNode *) 0x5ffffdb20
+Ambiguous command "a=*pp": .
+Undefined command: "".  Try "help".
+$27 = (ListNode *) 0x555555769730
+Cannot access memory at address 0x10
+$28 = (ListNode **) 0x7fffffffdaa0
+$29 = (ListNode *) 0x555555769730
+$30 = (ListNode *) 0x5555557696b0
+
+Breakpoint 1, Solution::swapPairs (this=0x7fffffffdaeb, head=0x5555557696b0) at solution.cpp:27
+$31 = (ListNode *) 0x555555769730
+$32 = (ListNode *) 0x5555557696b0
+$33 = (ListNode *) 0x5ffffdb20
+$34 = (ListNode *) 0x555555769730
+$35 = (ListNode *) 0x5555557696b0
+$36 = {
+  val = 1, 
+  next = 0x5555557696d0
+}
+$37 = (ListNode *) 0x5555557696b0
+$38 = (ListNode *) 0x5555557696b0
+node 1 address:0x5555557696b0 val:1 next:0x5555557696d0 
+node 2 address:0x5555557696d0 val:2 next:0x5555557696f0 
+node 3 address:0x5555557696f0 val:3 next:0x555555769710 
+node 4 address:0x555555769710 val:4 next:0x555555769730 
+node 5 address:0x555555769730 val:5 next:0x0 
+node 1 address:0x5555557696d0 val:2 next:0x5555557696f0 
+node 2 address:0x5555557696f0 val:3 next:0x555555769710 
+node 3 address:0x555555769710 val:4 next:0x555555769730 
+node 4 address:0x555555769730 val:5 next:0x0 
+$39 = (ListNode *) 0x5555557696b0
+$40 = {
+  val = 1, 
+  next = 0x5555557696d0
+}
+$41 = (ListNode *) 0x5555557696b0
+$42 = {
+  val = 1, 
+  next = 0x5555557696d0
+}
+node 1 address:0x5555557696b0 val:1 next:0x5555557696d0 
+node 2 address:0x5555557696d0 val:2 next:0x5555557696f0 
+node 3 address:0x5555557696f0 val:3 next:0x555555769710 
+node 4 address:0x555555769710 val:4 next:0x555555769730 
+node 5 address:0x555555769730 val:5 next:0x0 
+node 1 address:0x5555557696b0 val:1 next:0x5555557696d0 
+node 2 address:0x5555557696d0 val:2 next:0x5555557696f0 
+node 3 address:0x5555557696f0 val:3 next:0x555555769710 
+node 4 address:0x555555769710 val:4 next:0x555555769730 
+node 5 address:0x555555769730 val:5 next:0x0 
+Undefined command: "ll".  Try "help".
+Set or modify the height of a specified window.
+Usage: winheight <win_name> [+ | -] <#lines>
+Window names are:
+src  : the source window
+cmd  : the command window
+asm  : the disassembly window
+regs : the register display
+
+Undefined command: "exit".  Try "help".
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+Reading symbols from a.out...done.
+The current system root is "target:".
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+Reading symbols from a.out...done.
+Breakpoint 1 at 0xc2a: file solution.cpp, line 21.
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+Reading symbols from a.out...done.
+Breakpoint 1 at 0xabd: file solution.cpp, line 45.
+Starting program: /home/dc/5W/algorithm/LeetCode-NOTES/Algorithms/024.Swap-Nodes-in-Pairs/a.out 
+[34m-----------------------------------------------------------------
+[0m[31m[registers]
+[0m  [32mV0: [0mError while running hook_stop:
+Invalid type combination in equality test.
+
+Breakpoint 1, main () at solution.cpp:45
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+Reading symbols from a.out...done.
+Breakpoint 1 at 0xabd: file solution.cpp, line 45.
+Starting program: /home/dc/5W/algorithm/LeetCode-NOTES/Algorithms/024.Swap-Nodes-in-Pairs/a.out 
+Error while running hook_stop:
+Undefined command: "draw-separator".  Try "help".
+
+Breakpoint 1, main () at solution.cpp:45
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+Reading symbols from a.out...done.
+Breakpoint 1 at 0xb14: file solution.cpp, line 52.
+Starting program: /home/dc/5W/algorithm/LeetCode-NOTES/Algorithms/024.Swap-Nodes-in-Pairs/a.out 
+Error while running hook_stop:
+Undefined command: "draw-separator".  Try "help".
+
+Breakpoint 1, main () at solution.cpp:52
+Breakpoint 2 at 0x555555554afd: file solution.cpp, line 51.
+Breakpoint 3 at 0x555555554c2a: file solution.cpp, line 24.
+Starting program: /home/dc/5W/algorithm/LeetCode-NOTES/Algorithms/024.Swap-Nodes-in-Pairs/a.out 
+Error while running hook_stop:
+Undefined command: "draw-separator".  Try "help".
+
+Breakpoint 2, main () at solution.cpp:51
+node 1 address:0x5555557696b0 val:1 next:0x5555557696d0 
+node 2 address:0x5555557696d0 val:2 next:0x5555557696f0 
+node 3 address:0x5555557696f0 val:3 next:0x555555769710 
+node 4 address:0x555555769710 val:4 next:0x555555769730 
+node 5 address:0x555555769730 val:5 next:0x0 
+Error while running hook_stop:
+Undefined command: "draw-separator".  Try "help".
+
+Breakpoint 3, Solution::swapPairs (this=0x7fffffffdafb, head=0x5555557696b0) at solution.cpp:24
+node 1 address:0x5555557696b0 val:1 next:0x5555557696d0 
+node 2 address:0x5555557696d0 val:2 next:0x5555557696f0 
+node 3 address:0x5555557696f0 val:3 next:0x555555769710 
+node 4 address:0x555555769710 val:4 next:0x555555769730 
+node 5 address:0x555555769730 val:5 next:0x0 
+Error while running hook_stop:
+Undefined command: "draw-separator".  Try "help".
+$1 = (ListNode **) 0x7fffffffdab0
+$2 = (ListNode **) 0x7fffffffdab0
+$3 = (ListNode *) 0x555555769730
+$4 = (ListNode *) 0x5ffffdb30
+node 1 address:0x555555769730 val:5 next:0x0 
+node 1 address:0x5ffffdb30 val:Cannot access memory at address 0x5ffffdb30
+$5 = (ListNode *) 0x555555769730
+$6 = (ListNode **) 0x7fffffffdab0
+$7 = (ListNode *) 0x5555557696b0
+$8 = (ListNode *) 0x5ffffdb30
+$9 = (ListNode *) 0x0
+node 1 address:0x7fffffffdab0 val:1433835184 next:0x7fffffffdafb 
+node 2 address:0x7fffffffdafb val:1365 next:0x7697300000555555 
+node 3 address:0x7697300000555555 val:Cannot access memory at address 0x7697300000555555
+node 1 address:0x5555557696b0 val:1 next:0x5555557696d0 
+node 2 address:0x5555557696d0 val:2 next:0x5555557696f0 
+node 3 address:0x5555557696f0 val:3 next:0x555555769710 
+node 4 address:0x555555769710 val:4 next:0x555555769730 
+node 5 address:0x555555769730 val:5 next:0x0 
+Error while running hook_stop:
+Undefined command: "draw-separator".  Try "help".
+node 1 address:0x5555557696b0 val:1 next:0x5555557696d0 
+node 2 address:0x5555557696d0 val:2 next:0x5555557696f0 
+node 3 address:0x5555557696f0 val:3 next:0x555555769710 
+node 4 address:0x555555769710 val:4 next:0x555555769730 
+node 5 address:0x555555769730 val:5 next:0x0 
+node 1 address:0x5555557696d0 val:2 next:0x5555557696f0 
+node 2 address:0x5555557696f0 val:3 next:0x555555769710 
+node 3 address:0x555555769710 val:4 next:0x555555769730 
+node 4 address:0x555555769730 val:5 next:0x0 
+Error while running hook_stop:
+Undefined command: "draw-separator".  Try "help".
+node 1 address:0x5555557696b0 val:1 next:0x5555557696f0 
+node 2 address:0x5555557696f0 val:3 next:0x555555769710 
+node 3 address:0x555555769710 val:4 next:0x555555769730 
+node 4 address:0x555555769730 val:5 next:0x0 
+node 1 address:0x5555557696d0 val:2 next:0x5555557696f0 
+node 2 address:0x5555557696f0 val:3 next:0x555555769710 
+node 3 address:0x555555769710 val:4 next:0x555555769730 
+node 4 address:0x555555769730 val:5 next:0x0 
+Error while running hook_stop:
+Undefined command: "draw-separator".  Try "help".
+node 1 address:0x5555557696d0 val:2 next:0x5555557696b0 
+node 2 address:0x5555557696b0 val:1 next:0x5555557696f0 
+node 3 address:0x5555557696f0 val:3 next:0x555555769710 
+node 4 address:0x555555769710 val:4 next:0x555555769730 
+node 5 address:0x555555769730 val:5 next:0x0 
+node 1 address:0x5555557696b0 val:1 next:0x5555557696f0 
+node 2 address:0x5555557696f0 val:3 next:0x555555769710 
+node 3 address:0x555555769710 val:4 next:0x555555769730 
+node 4 address:0x555555769730 val:5 next:0x0 
+Error while running hook_stop:
+Undefined command: "draw-separator".  Try "help".
+Error while running hook_stop:
+Undefined command: "draw-separator".  Try "help".

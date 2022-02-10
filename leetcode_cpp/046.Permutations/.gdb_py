@@ -1,0 +1,54 @@
+# gdb source script
+define pwhile
+    printf "=======================\n"
+    pvector result
+end
+
+pi RelativeFunctionBreakpoint("Solution::permute", lineOffset=6)
+commands
+    silent
+    pwhile
+    # continue
+end
+
+pi RelativeFunctionBreakpoint("Solution::permute", lineOffset=6)
+commands
+    silent
+    pwhile
+    # continue
+end
+
+pi RelativeFunctionBreakpoint("Solution::permute1", lineOffset=6)
+commands
+    silent
+    pwhile
+    # continue
+end
+
+pi RelativeFunctionBreakpoint("Solution::permute2", lineOffset=6)
+commands
+    silent
+    pwhile
+    # continue
+end
+
+pi RelativeFunctionBreakpoint("Solution::permute3", lineOffset=6)
+commands
+    silent
+    pwhile
+    # continue
+end
+
+pi RelativeFunctionBreakpoint("Solution::permute4", lineOffset=6)
+commands
+    silent
+    pwhile
+    # continue
+end
+
+pi RelativeFunctionBreakpoint("Solution::permute5", lineOffset=6)
+commands
+    silent
+    pwhile
+    # continue
+end

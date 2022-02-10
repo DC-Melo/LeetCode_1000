@@ -1,0 +1,291 @@
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+Reading symbols from a.out...done.
+
+post-prompt
+^done,asm_insns=[]
+~"\n\032\032breakpoints-table-end\n"
+^done,BreakpointTable={nr_rows="0",nr_cols="6",hdr=[{width="7",alignment="-1",col_name="number",colhdr="Num"},{width="14",alignment="-1",col_name="type",colhdr="Type"},{width="4",alignment="-1",col_name="disp",colhdr="Disp"},{width="3",alignment="-1",col_name="enabled",colhdr="Enb"},{width="10",alignment="-1",col_name="addr",colhdr="Address"},{width="40",alignment="2",col_name="what",colhdr="What"}],body=[]}
+^error,msg="No registers."
+^done,line="24",file="solution.cpp",fullname="/home/dc/5W/algorithm/LeetCode-NOTES/Algorithms/029.Divide-Two-Integers/solution.cpp",macro-info="0"
+^done
+&"complete do\n"
+~"document\n"
+~"dont-repeat\n"
+~"down\n"
+~"down-silently\n"
+~"downbp\n"
+^done
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+Reading symbols from a.out...done.
+
+post-prompt
+^done,asm_insns=[]
+~"\n\032\032breakpoints-table-end\n"
+^done,BreakpointTable={nr_rows="0",nr_cols="6",hdr=[{width="7",alignment="-1",col_name="number",colhdr="Num"},{width="14",alignment="-1",col_name="type",colhdr="Type"},{width="4",alignment="-1",col_name="disp",colhdr="Disp"},{width="3",alignment="-1",col_name="enabled",colhdr="Enb"},{width="10",alignment="-1",col_name="addr",colhdr="Address"},{width="40",alignment="2",col_name="what",colhdr="What"}],body=[]}
+^error,msg="No registers."
+^done,line="24",file="solution.cpp",fullname="/home/dc/5W/algorithm/LeetCode-NOTES/Algorithms/029.Divide-Two-Integers/solution.cpp",macro-info="0"
+^done
+&"complete pv\n"
+~"pvector\n"
+^done
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+Reading symbols from a.out...done.
+
+post-prompt
+^done,asm_insns=[]
+~"\n\032\032breakpoints-table-end\n"
+^done,BreakpointTable={nr_rows="0",nr_cols="6",hdr=[{width="7",alignment="-1",col_name="number",colhdr="Num"},{width="14",alignment="-1",col_name="type",colhdr="Type"},{width="4",alignment="-1",col_name="disp",colhdr="Disp"},{width="3",alignment="-1",col_name="enabled",colhdr="Enb"},{width="10",alignment="-1",col_name="addr",colhdr="Address"},{width="40",alignment="2",col_name="what",colhdr="What"}],body=[]}
+^error,msg="No registers."
+^done,line="24",file="solution.cpp",fullname="/home/dc/5W/algorithm/LeetCode-NOTES/Algorithms/029.Divide-Two-Integers/solution.cpp",macro-info="0"
+^done
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+Reading symbols from a.out...done.
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+Reading symbols from a.out...done.
+
+post-prompt
+^done,asm_insns=[]
+~"\n\032\032breakpoints-table-end\n"
+^done,BreakpointTable={nr_rows="0",nr_cols="6",hdr=[{width="7",alignment="-1",col_name="number",colhdr="Num"},{width="14",alignment="-1",col_name="type",colhdr="Type"},{width="4",alignment="-1",col_name="disp",colhdr="Disp"},{width="3",alignment="-1",col_name="enabled",colhdr="Enb"},{width="10",alignment="-1",col_name="addr",colhdr="Address"},{width="40",alignment="2",col_name="what",colhdr="What"}],body=[]}
+^error,msg="No registers."
+^done,line="24",file="solution.cpp",fullname="/home/dc/5W/algorithm/LeetCode-NOTES/Algorithms/029.Divide-Two-Integers/solution.cpp",macro-info="0"
+^done
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+Reading symbols from a.out...done.
+
+post-prompt
+^done,asm_insns=[]
+~"\n\032\032breakpoints-table-end\n"
+^done,BreakpointTable={nr_rows="0",nr_cols="6",hdr=[{width="7",alignment="-1",col_name="number",colhdr="Num"},{width="14",alignment="-1",col_name="type",colhdr="Type"},{width="4",alignment="-1",col_name="disp",colhdr="Disp"},{width="3",alignment="-1",col_name="enabled",colhdr="Enb"},{width="10",alignment="-1",col_name="addr",colhdr="Address"},{width="40",alignment="2",col_name="what",colhdr="What"}],body=[]}
+^error,msg="No registers."
+^done,line="24",file="solution.cpp",fullname="/home/dc/5W/algorithm/LeetCode-NOTES/Algorithms/029.Divide-Two-Integers/solution.cpp",macro-info="0"
+^done
+&"complete con\n"
+~"condition\n"
+~"context\n"
+~"continue\n"
+^done
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+Reading symbols from a.out...done.
+
+post-prompt
+^done,asm_insns=[]
+~"\n\032\032breakpoints-table-end\n"
+^done,BreakpointTable={nr_rows="0",nr_cols="6",hdr=[{width="7",alignment="-1",col_name="number",colhdr="Num"},{width="14",alignment="-1",col_name="type",colhdr="Type"},{width="4",alignment="-1",col_name="disp",colhdr="Disp"},{width="3",alignment="-1",col_name="enabled",colhdr="Enb"},{width="10",alignment="-1",col_name="addr",colhdr="Address"},{width="40",alignment="2",col_name="what",colhdr="What"}],body=[]}
+^error,msg="No registers."
+^done,line="24",file="solution.cpp",fullname="/home/dc/5W/algorithm/LeetCode-NOTES/Algorithms/029.Divide-Two-Integers/solution.cpp",macro-info="0"
+^done
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+Reading symbols from a.out...done.
+
+post-prompt
+^done,asm_insns=[]
+~"\n\032\032breakpoints-table-end\n"
+^done,BreakpointTable={nr_rows="0",nr_cols="6",hdr=[{width="7",alignment="-1",col_name="number",colhdr="Num"},{width="14",alignment="-1",col_name="type",colhdr="Type"},{width="4",alignment="-1",col_name="disp",colhdr="Disp"},{width="3",alignment="-1",col_name="enabled",colhdr="Enb"},{width="10",alignment="-1",col_name="addr",colhdr="Address"},{width="40",alignment="2",col_name="what",colhdr="What"}],body=[]}
+^error,msg="No registers."
+^done,line="24",file="solution.cpp",fullname="/home/dc/5W/algorithm/LeetCode-NOTES/Algorithms/029.Divide-Two-Integers/solution.cpp",macro-info="0"
+^done
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+Reading symbols from a.out...done.
+
+post-prompt
+^done,asm_insns=[]
+~"\n\032\032breakpoints-table-end\n"
+^done,BreakpointTable={nr_rows="0",nr_cols="6",hdr=[{width="7",alignment="-1",col_name="number",colhdr="Num"},{width="14",alignment="-1",col_name="type",colhdr="Type"},{width="4",alignment="-1",col_name="disp",colhdr="Disp"},{width="3",alignment="-1",col_name="enabled",colhdr="Enb"},{width="10",alignment="-1",col_name="addr",colhdr="Address"},{width="40",alignment="2",col_name="what",colhdr="What"}],body=[]}
+^error,msg="No registers."
+^done,line="24",file="solution.cpp",fullname="/home/dc/5W/algorithm/LeetCode-NOTES/Algorithms/029.Divide-Two-Integers/solution.cpp",macro-info="0"
+^done
+&"complete hex\n"
+^done
+&"complete hex\n"
+^done
+&"complete hex\n"
+^done
+&"complete h\n"
+~"handle\n"
+~"hbreak\n"
+~"help\n"
+~"hook-stop\n"
+^done
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+Reading symbols from a.out...done.
+
+post-prompt
+^done,asm_insns=[]
+~"\n\032\032breakpoints-table-end\n"
+^done,BreakpointTable={nr_rows="0",nr_cols="6",hdr=[{width="7",alignment="-1",col_name="number",colhdr="Num"},{width="14",alignment="-1",col_name="type",colhdr="Type"},{width="4",alignment="-1",col_name="disp",colhdr="Disp"},{width="3",alignment="-1",col_name="enabled",colhdr="Enb"},{width="10",alignment="-1",col_name="addr",colhdr="Address"},{width="40",alignment="2",col_name="what",colhdr="What"}],body=[]}
+^error,msg="No registers."
+^done,line="24",file="solution.cpp",fullname="/home/dc/5W/algorithm/LeetCode-NOTES/Algorithms/029.Divide-Two-Integers/solution.cpp",macro-info="0"
+^done
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+Reading symbols from a.out...done.
+
+post-prompt
+^done,asm_insns=[]
+~"\n\032\032breakpoints-table-end\n"
+^done,BreakpointTable={nr_rows="0",nr_cols="6",hdr=[{width="7",alignment="-1",col_name="number",colhdr="Num"},{width="14",alignment="-1",col_name="type",colhdr="Type"},{width="4",alignment="-1",col_name="disp",colhdr="Disp"},{width="3",alignment="-1",col_name="enabled",colhdr="Enb"},{width="10",alignment="-1",col_name="addr",colhdr="Address"},{width="40",alignment="2",col_name="what",colhdr="What"}],body=[]}
+^error,msg="No registers."
+^done,line="24",file="solution.cpp",fullname="/home/dc/5W/algorithm/LeetCode-NOTES/Algorithms/029.Divide-Two-Integers/solution.cpp",macro-info="0"
+^done
+&"complete pli\n"
+~"plist\n"
+~"plist_member\n"
+~"plistnode\n"
+^done
+&"complete plistn\n"
+~"plistnode\n"
+^done
+&"complete h\n"
+~"handle\n"
+~"hbreak\n"
+~"help\n"
+~"hex_quad\n"
+~"hexdump\n"
+~"hook-stop\n"
+^done
+&"complete plis\n"
+~"plist\n"
+~"plist_member\n"
+~"plistnode\n"
+^done
+&"complete plistno\n"
+~"plistnode\n"
+^done
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+Reading symbols from a.out...done.
+
+post-prompt
+^done,asm_insns=[]
+~"\n\032\032breakpoints-table-end\n"
+^done,BreakpointTable={nr_rows="0",nr_cols="6",hdr=[{width="7",alignment="-1",col_name="number",colhdr="Num"},{width="14",alignment="-1",col_name="type",colhdr="Type"},{width="4",alignment="-1",col_name="disp",colhdr="Disp"},{width="3",alignment="-1",col_name="enabled",colhdr="Enb"},{width="10",alignment="-1",col_name="addr",colhdr="Address"},{width="40",alignment="2",col_name="what",colhdr="What"}],body=[]}
+^error,msg="No registers."
+^done,line="24",file="solution.cpp",fullname="/home/dc/5W/algorithm/LeetCode-NOTES/Algorithms/029.Divide-Two-Integers/solution.cpp",macro-info="0"
+^done
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+Reading symbols from a.out...done.
+
+post-prompt
+^done,asm_insns=[]
+~"\n\032\032breakpoints-table-end\n"
+^done,BreakpointTable={nr_rows="0",nr_cols="6",hdr=[{width="7",alignment="-1",col_name="number",colhdr="Num"},{width="14",alignment="-1",col_name="type",colhdr="Type"},{width="4",alignment="-1",col_name="disp",colhdr="Disp"},{width="3",alignment="-1",col_name="enabled",colhdr="Enb"},{width="10",alignment="-1",col_name="addr",colhdr="Address"},{width="40",alignment="2",col_name="what",colhdr="What"}],body=[]}
+^error,msg="No registers."
+^done,line="24",file="solution.cpp",fullname="/home/dc/5W/algorithm/LeetCode-NOTES/Algorithms/029.Divide-Two-Integers/solution.cpp",macro-info="0"
+^done
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+Reading symbols from a.out...done.
+
+post-prompt
+^done,asm_insns=[]
+~"\n\032\032breakpoints-table-end\n"
+^done,BreakpointTable={nr_rows="0",nr_cols="6",hdr=[{width="7",alignment="-1",col_name="number",colhdr="Num"},{width="14",alignment="-1",col_name="type",colhdr="Type"},{width="4",alignment="-1",col_name="disp",colhdr="Disp"},{width="3",alignment="-1",col_name="enabled",colhdr="Enb"},{width="10",alignment="-1",col_name="addr",colhdr="Address"},{width="40",alignment="2",col_name="what",colhdr="What"}],body=[]}
+^error,msg="No registers."
+^done,line="24",file="solution.cpp",fullname="/home/dc/5W/algorithm/LeetCode-NOTES/Algorithms/029.Divide-Two-Integers/solution.cpp",macro-info="0"
+^done
+19	        {
+20	            tempDivisor = dvs;
+21	            base = 1;
+22	            while( (dvd>>1) >= tempDivisor )
+23	            {
+24	                tempDivisor <<= 1;
+25	                base <<= 1;
+26	            }
+27	            dvd -= tempDivisor;
+28	            result += base;
+^done
+^done
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+Reading symbols from a.out...done.
+
+post-prompt
+^done,asm_insns=[]
+~"\n\032\032breakpoints-table-end\n"
+^done,BreakpointTable={nr_rows="0",nr_cols="6",hdr=[{width="7",alignment="-1",col_name="number",colhdr="Num"},{width="14",alignment="-1",col_name="type",colhdr="Type"},{width="4",alignment="-1",col_name="disp",colhdr="Disp"},{width="3",alignment="-1",col_name="enabled",colhdr="Enb"},{width="10",alignment="-1",col_name="addr",colhdr="Address"},{width="40",alignment="2",col_name="what",colhdr="What"}],body=[]}
+^error,msg="No registers."
+^done,line="24",file="solution.cpp",fullname="/home/dc/5W/algorithm/LeetCode-NOTES/Algorithms/029.Divide-Two-Integers/solution.cpp",macro-info="0"
+^done
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+
+warning: Currently logging to ./.log.txt.  Turn the logging off and on to make the new setting effective.
+Reading symbols from a.out...done.
+
+post-prompt
+^done,asm_insns=[]
+~"\n\032\032breakpoints-table-end\n"
+^done,BreakpointTable={nr_rows="0",nr_cols="6",hdr=[{width="7",alignment="-1",col_name="number",colhdr="Num"},{width="14",alignment="-1",col_name="type",colhdr="Type"},{width="4",alignment="-1",col_name="disp",colhdr="Disp"},{width="3",alignment="-1",col_name="enabled",colhdr="Enb"},{width="10",alignment="-1",col_name="addr",colhdr="Address"},{width="40",alignment="2",col_name="what",colhdr="What"}],body=[]}
+^error,msg="No registers."
+^done,line="24",file="solution.cpp",fullname="/home/dc/5W/algorithm/LeetCode-NOTES/Algorithms/029.Divide-Two-Integers/solution.cpp",macro-info="0"
+^done
+19	        {
+20	            tempDivisor = dvs;
+21	            base = 1;
+22	            while( (dvd>>1) >= tempDivisor )
+23	            {
+24	                tempDivisor <<= 1;
+25	                base <<= 1;
+26	            }
+27	            dvd -= tempDivisor;
+28	            result += base;
+29	        }
+30	        return sign>0? result:-result;
+31	    }
+32	};
+33	int main(){
+34	    Solution sln;
+35	    int dividend,divisor;
+36	    cout << "input the dividend:";
+37	    cin >> dividend;
+38	    cout << "input the divisor:";
+&"complete plist\n"
+~"plist\n"
+~"plist_member\n"
+~"plistnode\n"
+^done
+&"complete plistno\n"
+~"plistnode\n"
+^done

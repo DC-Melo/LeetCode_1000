@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dc/5W/LeetCode_1000/leetcode_cpp/004.Median-of-Two-Sorted-Arrays/solution.h
+string
+-
+vector
+-
+list
+-
+set
+-
+map
+-
+
+/home/dc/5W/LeetCode_1000/leetcode_cpp/004.Median-of-Two-Sorted-Arrays/solution1.cpp
+solution.h
+/home/dc/5W/LeetCode_1000/leetcode_cpp/004.Median-of-Two-Sorted-Arrays/solution.h
+
