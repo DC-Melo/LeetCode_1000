@@ -1,6 +1,0 @@
-break /home/dc/5W/algorithm/LeetCode-NOTES/Algorithms/032.Longest-Valid-Parentheses/solution.cpp:18
-  commands
-    printf "loop for: i=%d,ch=%c,ans=%d\n",i,ch,ans
-    printf "stack S:\n"
-    pstack S
-  end

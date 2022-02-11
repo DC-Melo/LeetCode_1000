@@ -1,4 +1,0 @@
-/home/dc/5W/LeetCode_1000/leetcode_cpp/004.Median-of-Two-Sorted-Arrays/build/CMakeFiles/edit_cache.dir
-/home/dc/5W/LeetCode_1000/leetcode_cpp/004.Median-of-Two-Sorted-Arrays/build/CMakeFiles/lib1.dir
-/home/dc/5W/LeetCode_1000/leetcode_cpp/004.Median-of-Two-Sorted-Arrays/build/CMakeFiles/rebuild_cache.dir
-/home/dc/5W/LeetCode_1000/leetcode_cpp/004.Median-of-Two-Sorted-Arrays/build/CMakeFiles/sln1.dir

@@ -1,1 +1,0 @@
-/usr/bin/c++  -g  -rdynamic CMakeFiles/Two-Sum2.dir/main.cpp.o  -o Two-Sum2 libsolution2.a 

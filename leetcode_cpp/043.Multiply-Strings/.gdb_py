@@ -1,7 +1,0 @@
-pi RelativeFunctionBreakpoint("Solution::multiply", lineOffset=14)
-  commands
-    printf "=======================\n"
-    printf "-->i=%d,j=%d,k=%d\n",i,j,k
-    printf "-->a=%d,b=%d,c=%d\n",a,b,c
-    p str
-  end

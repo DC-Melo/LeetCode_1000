@@ -1,2 +1,0 @@
-/usr/bin/ar qc libsln2.a  CMakeFiles/sln2.dir/solution2.cpp.o
-/usr/bin/ranlib libsln2.a
