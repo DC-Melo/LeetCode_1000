@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblib3.a  CMakeFiles/lib3.dir/solution3.cpp.o
+/usr/bin/ranlib liblib3.a
