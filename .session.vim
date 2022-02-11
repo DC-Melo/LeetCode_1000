@@ -216,7 +216,7 @@ nmap ySs <Plug>YSsurround
 nmap yss <Plug>Yssurround
 nmap yS <Plug>YSurround
 nmap ys <Plug>Ysurround
-nnoremap <SNR>161_: :=v:count ? v:count : ''
+nnoremap <SNR>167_: :=v:count ? v:count : ''
 vnoremap <silent> <Plug>NetrwBrowseXVis :call netrw#BrowseXVis()
 nnoremap <silent> <Plug>NetrwBrowseX :call netrw#BrowseX(netrw#GX(),netrw#CheckIfRemote(netrw#GX()))
 map <M-p> :call SearchInvalidComment(1)
@@ -964,8 +964,7 @@ endif
 set shortmess=aoO
 argglobal
 %argdel
-$argadd ../OpenGL/OpenGL_Programming_Guide-8th/redbook_opengl_examples/CMakeLists.txt
-$argadd CMakeLists.txt
+$argadd .
 edit CMakeLists.txt
 set splitbelow splitright
 set nosplitbelow
@@ -976,8 +975,7 @@ set winheight=1
 set winminwidth=0
 set winwidth=1
 argglobal
-if bufexists("CMakeLists.txt") | buffer CMakeLists.txt | else | edit CMakeLists.txt | endif
-balt ../OpenGL/OpenGL_Programming_Guide-8th/redbook_opengl_examples/CMakeLists.txt
+balt NERD_tree_1
 let s:cpo_save=&cpo
 set cpo&vim
 inoremap <buffer> <silent> <M-n> :call AutoPairsJump()a
@@ -1153,15 +1151,14 @@ setlocal nowrap
 setlocal wrapmargin=0
 silent! normal! zE
 let &fdl = &fdl
-let s:l = 1 - ((0 * winheight(0) + 15) / 30)
+let s:l = 16 - ((14 * winheight(0) + 15) / 30)
 if s:l < 1 | let s:l = 1 | endif
 keepjumps exe s:l
 normal! zt
-keepjumps 1
+keepjumps 16
 normal! 0
 tabnext 1
-badd +1 ../OpenGL/OpenGL_Programming_Guide-8th/redbook_opengl_examples/CMakeLists.txt
-badd +1 CMakeLists.txt
+badd +0 CMakeLists.txt
 if exists('s:wipebuf') && len(win_findbuf(s:wipebuf)) == 0
   silent exe 'bwipe ' . s:wipebuf
 endif
