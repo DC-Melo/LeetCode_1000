@@ -216,7 +216,7 @@ nmap ySs <Plug>YSsurround
 nmap yss <Plug>Yssurround
 nmap yS <Plug>YSurround
 nmap ys <Plug>Ysurround
-nnoremap <SNR>167_: :=v:count ? v:count : ''
+nnoremap <SNR>161_: :=v:count ? v:count : ''
 vnoremap <silent> <Plug>NetrwBrowseXVis :call netrw#BrowseXVis()
 nnoremap <silent> <Plug>NetrwBrowseX :call netrw#BrowseX(netrw#GX(),netrw#CheckIfRemote(netrw#GX()))
 map <M-p> :call SearchInvalidComment(1)
@@ -957,14 +957,14 @@ let s:so_save = &g:so | let s:siso_save = &g:siso | setg so=0 siso=0 | setl so=-
 let v:this_session=expand("<sfile>:p")
 silent only
 silent tabonly
-cd ~/5W/LeetCode_1000/gradle
+cd ~/5W/LeetCode_1000/tt
 if expand('%') == '' && !&modified && line('$') <= 1 && getline(1) == ''
   let s:wipebuf = bufnr('%')
 endif
 set shortmess=aoO
 argglobal
 %argdel
-$argadd .
+$argadd CMakeLists.txt
 edit CMakeLists.txt
 set splitbelow splitright
 set nosplitbelow
@@ -975,7 +975,6 @@ set winheight=1
 set winminwidth=0
 set winwidth=1
 argglobal
-balt NERD_tree_1
 let s:cpo_save=&cpo
 set cpo&vim
 inoremap <buffer> <silent> <M-n> :call AutoPairsJump()a
@@ -1151,11 +1150,11 @@ setlocal nowrap
 setlocal wrapmargin=0
 silent! normal! zE
 let &fdl = &fdl
-let s:l = 31 - ((21 * winheight(0) + 15) / 30)
+let s:l = 27 - ((3 * winheight(0) + 15) / 30)
 if s:l < 1 | let s:l = 1 | endif
 keepjumps exe s:l
 normal! zt
-keepjumps 31
+keepjumps 27
 normal! 0
 tabnext 1
 badd +0 CMakeLists.txt

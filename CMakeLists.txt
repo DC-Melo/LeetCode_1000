@@ -24,11 +24,9 @@ function(SUBFILELIST result curdir pattern)
     set(${result} ${filelist} PARENT_SCOPE)
 endfunction()
 
-
 include_directories(${CMAKE_SOURCE_DIR}/app/src/main/headers)
 SUBDIRLIST(SubFolderMatch ${CMAKE_SOURCE_DIR}/app/src/main/cpp)
 foreach(ITEM_FOLDER ${SubFolderMatch})
-    # set(ITEM_FOLDER "001.Two-Sum" )
     message("项目：= ${ITEM_FOLDER}")
     SUBFILELIST(SubFilesMatch ${CMAKE_SOURCE_DIR}/app/src/main/cpp/${ITEM_FOLDER} "solution[_0-9]+.cpp")
     foreach(SOLUTION ${SubFilesMatch})
