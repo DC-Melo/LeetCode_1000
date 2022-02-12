@@ -1,5 +1,8 @@
 cmake_minimum_required(VERSION 2.8.2)
 project(ProjectName)
+set(CMAKE_BUILD_TYPE debug)
+MESSAGE( STATUS "变量:CMAKE_BUILD_TYPE = ${CMAKE_BUILD_TYPE}")
+add_compile_options(-std=c++11)
 
 macro(SUBDIRLIST result curdir)
     file(GLOB children RELATIVE ${curdir} ${curdir}/*)
