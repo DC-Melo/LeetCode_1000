@@ -1,8 +1,0 @@
-/home/dc/5W/LeetCode_1000/leetcode_cpp/005.Longest-Palindromic-Substring/build/CMakeFiles/rebuild_cache.dir
-/home/dc/5W/LeetCode_1000/leetcode_cpp/005.Longest-Palindromic-Substring/build/CMakeFiles/sln2.dir
-/home/dc/5W/LeetCode_1000/leetcode_cpp/005.Longest-Palindromic-Substring/build/CMakeFiles/sln1.dir
-/home/dc/5W/LeetCode_1000/leetcode_cpp/005.Longest-Palindromic-Substring/build/CMakeFiles/sln3.dir
-/home/dc/5W/LeetCode_1000/leetcode_cpp/005.Longest-Palindromic-Substring/build/CMakeFiles/edit_cache.dir
-/home/dc/5W/LeetCode_1000/leetcode_cpp/005.Longest-Palindromic-Substring/build/CMakeFiles/lib3.dir
-/home/dc/5W/LeetCode_1000/leetcode_cpp/005.Longest-Palindromic-Substring/build/CMakeFiles/lib1.dir
-/home/dc/5W/LeetCode_1000/leetcode_cpp/005.Longest-Palindromic-Substring/build/CMakeFiles/lib2.dir
