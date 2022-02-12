@@ -26,7 +26,7 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClass = '001_two_sum.App'
+    mainClass = 'leetcode.App'
 }
 
 tasks.named('test') {
