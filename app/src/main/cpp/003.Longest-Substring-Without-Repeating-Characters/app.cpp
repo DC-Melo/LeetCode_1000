@@ -1,7 +1,4 @@
-#include <iostream>
-#include "solution.h"
-
-
+#include "app.h"
 int main(){
     Solution sln;
     int maxlen = sln.lengthOfLongestSubstring("asdfffasdf");
