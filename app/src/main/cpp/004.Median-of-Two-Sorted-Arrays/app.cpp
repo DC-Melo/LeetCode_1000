@@ -1,10 +1,4 @@
-#include <iostream>
-#include <vector>
-#include <list>	
-#include <set>
-#include <map>	
-#include "solution.h"
-
+#include "app.h"
 int main()
 {
     vector<int> nums1={1,3,5,7};

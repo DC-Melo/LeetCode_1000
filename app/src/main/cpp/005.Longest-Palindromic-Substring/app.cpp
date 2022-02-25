@@ -1,6 +1,4 @@
-#include <iostream>
-#include "solution.h"
-
+#include "app.h"
 int main()
 {
 string str="abcdefedcbaeee";
